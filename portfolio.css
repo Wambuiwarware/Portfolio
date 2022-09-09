@@ -17,6 +17,7 @@ nav{
     padding: 20px 0;
     align-items: center;
     justify-content: space-between;
+    
 }
 nav ul li{
     display: inline-block;
@@ -47,5 +48,19 @@ nav ul li:hover{
 }
 h1{
     font-size: 50px;
-    color: ;
+    color:maroon
+}
+span{
+    color: red;
+}
+#insta{
+    width: 15px;
+    height: 15px;
+}
+footer{
+    
+    margin-bottom: 15%;
+}
+#atag{
+    font-size: 30px;
 }
