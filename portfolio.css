@@ -7,12 +7,12 @@
     position: relative;
     width: 100%;
     height: 100vh;
-    background: #99a09938;
+    background-color: rgb(153, 177, 202);
 
 }
 nav{
     display: flex;
-    width: 84%;
+    width: 80%;
     margin:auto;
     padding: 20px 0;
     align-items: center;
@@ -35,4 +35,17 @@ nav ul li{
 nav ul li:hover{
     color: maroon;
 
+}
+.details{margin-left: 30%;
+    margin-right: 30%;
+    font-size: 27px;
+    color:black;
+    margin-bottom: 10px;
+    margin-top: 200px;
+
+
+}
+h1{
+    font-size: 50px;
+    color: ;
 }
