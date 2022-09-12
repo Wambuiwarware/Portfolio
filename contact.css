@@ -1,0 +1,9 @@
+li{
+    color: white;
+    font-weight: 500;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+*{
+    background-color: rgba(0, 0, 255, 0.432);
+}
